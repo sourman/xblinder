@@ -1,0 +1,2 @@
+full-html.html filter=lfs diff=lfs merge=lfs -text
+just-the-modal.html filter=lfs diff=lfs merge=lfs -text
