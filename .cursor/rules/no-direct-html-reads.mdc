@@ -1,0 +1,12 @@
+---
+alwaysApply: true
+---
+# Rule: No Direct Modal Or HTML Reads
+
+## Summary
+Please do not read the modal file or HTML files directly. Always open a terminal and use Python (inline or otherwise) to inspect them with the appropriate tools.
+
+## Guidance
+- Use terminal-based Python scripts or REPLs to inspect modal or HTML content when necessary.
+- Avoid using file readers or editors to open modal or HTML files directly.
+- Prefer exploratory commands that respect this rule when working with modal or HTML assets.
